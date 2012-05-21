@@ -1,4 +1,4 @@
-import org.dyndns.hibernate.jmenumaker.*;
+import se.kth.maandree.jmenumaker.*;
 
 import javax.swing.*;
 import java.awt.*;
