@@ -9,7 +9,7 @@
 # Maintainer: Mattias Andrée <maandree@operamail.com>
 pkgname=jmenumaker-git
 pkgver=20120622
-pkgrel=1
+pkgrel=2
 pkgdesc="A powerful, flexible, clean, simple library for generating menu systems quickly in Java Swing"
 arch=('any')
 url="https://github.com/maandree/JMenuMaker"
