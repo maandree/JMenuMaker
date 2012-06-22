@@ -12,15 +12,15 @@ pkgver=20120622
 pkgrel=1
 pkgdesc="A powerful, flexible, clean, simple library for generating menu systems quickly in Java Swing"
 arch=('any')
-url="https://github.com/maandree/jmenumaker"
+url="https://github.com/maandree/JMenuMaker"
 license=('Public Domain')
 depends=('java-runtime>=6')
 makedepends=('git' 'java-environment>=6')
 provides=('jmenumaker')
 conflicts=('jmenumaker')
 
-_gitroot=https://github.com/maandree/jmenumaker.git
-_gitname=jmenumaker
+_gitroot=https://github.com/maandree/JMenuMaker.git
+_gitname=JMenuMaker
 
 build() {
   cd "$srcdir"
